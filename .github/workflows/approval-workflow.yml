@@ -1,1 +1,2 @@
 name: Workflow para aprovação pelo time
+on: pull_request_review
